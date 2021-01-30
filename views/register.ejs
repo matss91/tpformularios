@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('./partials/head')  %> 
+<body>
+
+    <main>
+        <form action="" method="POST" enctype="multipart/form-data">
+            
+                <div class="container flex">
+<div class="row">
+                    <div class="col-md-6 ">
+                    <p>Nombre</p>
+                    <input type="text"  name="nombre">
+                    </div>
+                    <div class="col-md-6">
+                        <p>contraseña</p>
+                        <input type="password"  name="contraseña">
+                                    
+                        </div>
+                    <div class="col-md-6">
+                    <p>apellido</p>
+                    <input type="text"  name="apellido">
+                    </div>
+                    <div class="col-md-6">
+                        <p>repetir contraseña</p>
+                        <input type="password"  name="contraseña2">
+                                    
+                        </div>
+                    <div class="col-md-6">
+                    <p>email</p>
+                    <input type="text"  name="email">
+                    </div>
+                    
+                    <input type="file"  name="avatar">
+                    
+                        
+                           
+                    <div class="col-md-6">
+                        <br>
+                        <br>
+                    <button type="submit" class="btn btn-primary">Registrarme</button>
+                    
+                </div>
+                    </div>
+                </div>
+                   
+        </form>
+ 
+</main>
+
+    <%- include('./partials/footer')  %> 
+
+</body>
+</html>

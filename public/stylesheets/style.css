@@ -1,0 +1,31 @@
+p{
+  margin-left:180px ;
+}
+input{
+  margin: auto 180px  ;
+}
+ 
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+flex{
+  display:flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+ 
+}
+button{
+  margin-left:180px ;
+}
+
+.contenedor{
+  margin:200px auto;
+  
+}

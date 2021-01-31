@@ -3,6 +3,7 @@ var router = express.Router();
 var controllers=require("../controllers/adminController")
 var multer=require("multer")
 var path=require("path")
+
 /* GET home page. */
 var storage = multer.diskStorage({
     destination: function (req, file, cb) {
@@ -10,6 +11,7 @@ var storage = multer.diskStorage({
     },
     filename: function (req, file, cb) {
       cb(null, file.fieldname + '-' + Date.now()+path.extname(file.originalname))
+    
     }
   })
    

@@ -6,7 +6,8 @@
     <main>
      <h1>Nombre de usuario: <%=Admins[Admins.length-1].nombre-%></h1>
     <h2><%=Admins[Admins.length-1].email-%></h2>
-    <img>
+    
+    <img src="images/<%=Admins[Admins.length-1].avatar-%>">
     </main>
 
     <%- include('./partials/footer')  %> 

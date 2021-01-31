@@ -1,3 +1,88 @@
 [
- 
+  {
+    "nombre": "",
+    "apellido": ""
+  },
+  {
+    "nombre": "",
+    "apellido": ""
+  },
+  {
+    "nombre": "",
+    "apellido": "",
+    "email": ""
+  },
+  {
+    "nombre": "",
+    "apellido": "",
+    "email": ""
+  },
+  {
+    "nombre": "",
+    "apellido": "",
+    "email": ""
+  },
+  {
+    "nombre": "",
+    "apellido": "",
+    "email": ""
+  },
+  {
+    "nombre": "",
+    "apellido": "",
+    "email": ""
+  },
+  {
+    "nombre": "",
+    "apellido": ""
+  },
+  {
+    "nombre": "",
+    "apellido": ""
+  },
+  {
+    "nombre": "",
+    "apellido": "",
+    "avatar": "avatar-1612051846319.jpg"
+  },
+  {
+    "nombre": "",
+    "apellido": "",
+    "avatar": "avatar-1612052039996.jpg"
+  },
+  {
+    "nombre": "",
+    "apellido": "",
+    "avatar": "avatar-1612052095832.jpg"
+  },
+  {
+    "nombre": "",
+    "apellido": "",
+    "avatar": "avatar-1612052194905.jpg"
+  },
+  {
+    "nombre": "matias",
+    "apellido": "cardillo",
+    "avatar": "avatar-1612052628004.jpg",
+    "email": "matcardillo91@gmail.com"
+  },
+  {
+    "nombre": "matias",
+    "apellido": "cardillo",
+    "avatar": "avatar-1612052716946.exe",
+    "email": "matcardillo91@gmail.com"
+  },
+  {
+    "nombre": "matias",
+    "apellido": "cardillo",
+    "avatar": "avatar-1612052785665.png",
+    "email": ""
+  },
+  {
+    "nombre": "",
+    "apellido": "",
+    "avatar": "avatar-1612053672239.jpg",
+    "email": "",
+    "passEncriptada": "$2b$10$i0BDbhuVnAoKrThkRWeD0edC/Yh79c6kcpiTh7DuaH0Ufj5vYzQRq"
+  }
 ]
